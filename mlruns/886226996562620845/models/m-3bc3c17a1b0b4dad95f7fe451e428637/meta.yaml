@@ -1,0 +1,10 @@
+artifact_location: file:///Users/sachin/loan-default/mlruns/886226996562620845/models/m-3bc3c17a1b0b4dad95f7fe451e428637/artifacts
+creation_timestamp: 1777377822034
+experiment_id: '886226996562620845'
+last_updated_timestamp: 1777377824769
+model_id: m-3bc3c17a1b0b4dad95f7fe451e428637
+model_type: null
+name: model
+source_run_id: 1c942526e72747db890f258893bbc54d
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sachin/loan-default/mlruns/886226996562620845/d0f0a6ba978a487eaf79af246901db44/artifacts
+end_time: 1777378215873
+entry_point_name: ''
+experiment_id: '886226996562620845'
+lifecycle_stage: active
+run_id: d0f0a6ba978a487eaf79af246901db44
+run_name: drift_analysis
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777378215867
+status: 4
+tags: []
+user_id: sachin

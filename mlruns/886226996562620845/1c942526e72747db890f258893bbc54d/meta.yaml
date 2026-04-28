@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sachin/loan-default/mlruns/886226996562620845/1c942526e72747db890f258893bbc54d/artifacts
+end_time: 1777377827475
+entry_point_name: ''
+experiment_id: '886226996562620845'
+lifecycle_stage: active
+run_id: 1c942526e72747db890f258893bbc54d
+run_name: resilient-shad-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777377821029
+status: 3
+tags: []
+user_id: sachin

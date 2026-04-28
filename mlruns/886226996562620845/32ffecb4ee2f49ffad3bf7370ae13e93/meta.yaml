@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/sachin/loan-default/mlruns/886226996562620845/32ffecb4ee2f49ffad3bf7370ae13e93/artifacts
+end_time: 1777236339876
+entry_point_name: ''
+experiment_id: '886226996562620845'
+lifecycle_stage: active
+run_id: 32ffecb4ee2f49ffad3bf7370ae13e93
+run_name: unruly-owl-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777236337113
+status: 3
+tags: []
+user_id: sachin

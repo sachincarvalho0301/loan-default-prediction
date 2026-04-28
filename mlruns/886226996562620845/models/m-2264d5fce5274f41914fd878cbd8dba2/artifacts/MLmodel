@@ -1,0 +1,22 @@
+artifact_path: file:///Users/sachin/loan-default/mlruns/886226996562620845/models/m-2264d5fce5274f41914fd878cbd8dba2/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.8.1
+model_id: m-2264d5fce5274f41914fd878cbd8dba2
+model_size_bytes: 400103
+model_uuid: m-2264d5fce5274f41914fd878cbd8dba2
+prompts: null
+run_id: c9036ce2d5ab4bdaa4a1e188e8a198b7
+utc_time_created: '2026-04-26 21:12:44.411499'
